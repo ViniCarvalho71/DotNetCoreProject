@@ -1,0 +1,17 @@
+GET http://localhost:5065/games
+
+###
+
+GET http://localhost:5065/games/2
+
+###
+
+POST http://localhost:5065/games
+Content-Type: application/json
+
+{
+    "name":"Minecraft",
+    "genre":"Block Game",
+    "price":15.99,
+    "releaseDate": "2011-11-18"
+}
