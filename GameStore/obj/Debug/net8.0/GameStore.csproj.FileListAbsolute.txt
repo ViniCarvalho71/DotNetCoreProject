@@ -24,3 +24,9 @@ C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\obj\Deb
 C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\obj\Debug\net8.0\GameStore.pdb
 C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\obj\Debug\net8.0\GameStore.genruntimeconfig.cache
 C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\obj\Debug\net8.0\ref\GameStore.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\obj\Debug\net8.0\GameStore.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\obj\Debug\net8.0\GameStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Área de Trabalho\DotNetCoreProject\GameStore\obj\Debug\net8.0\GameStore.csproj.Up2Date
