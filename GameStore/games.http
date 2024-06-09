@@ -2,7 +2,7 @@ GET http://localhost:5065/games
 
 ###
 
-GET http://localhost:5065/games/2
+GET http://localhost:5065/games/5
 
 ###
 
@@ -15,3 +15,19 @@ Content-Type: application/json
     "price":15.99,
     "releaseDate": "2011-11-18"
 }
+
+###
+
+PUT http://localhost:5065/games/5
+Content-Type: application/json
+
+{
+    "name":"Roblox",
+    "genre":"SandBox",
+    "price":0,
+    "releaseDate": "2017-11-18"
+}
+
+###
+
+DELETE http://localhost:5065/games/1
