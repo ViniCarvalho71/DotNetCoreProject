@@ -18,13 +18,13 @@ Content-Type: application/json
 
 ###
 
-PUT http://localhost:5065/games/5
+PUT http://localhost:5065/games/2
 Content-Type: application/json
 
 {
     "name":"Roblox",
     "genre":"SandBox",
-    "price":0,
+    "price":10,
     "releaseDate": "2017-11-18"
 }
 
