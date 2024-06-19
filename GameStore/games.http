@@ -10,10 +10,10 @@ POST http://localhost:5065/games
 Content-Type: application/json
 
 {
-    "name":"Minecraft",
-    "genre":"Block Game",
-    "price":15.99,
-    "releaseDate": "2011-11-18"
+    "Name":"Minecraft",
+    "GenreId":2,
+    "Price":12.55,
+    "ReleaseDate": "2011-11-18"
 }
 
 ###
