@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using GameStore.Entities;
 
 namespace GameStore.Data;
 

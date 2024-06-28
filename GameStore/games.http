@@ -2,7 +2,7 @@ GET http://localhost:5065/games
 
 ###
 
-GET http://localhost:5065/games/5
+GET http://localhost:5065/games/3
 
 ###
 
@@ -10,7 +10,7 @@ POST http://localhost:5065/games
 Content-Type: application/json
 
 {
-    "Name":"Minecraft",
+    "Name":"Jhonny",
     "GenreId":2,
     "Price":12.55,
     "ReleaseDate": "2011-11-18"
@@ -23,7 +23,7 @@ Content-Type: application/json
 
 {
     "name":"Roblox",
-    "genre":"SandBox",
+    "genreId":2,
     "price":10,
     "releaseDate": "2017-11-18"
 }
